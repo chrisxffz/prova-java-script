@@ -1,0 +1,27 @@
+h1
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+h2
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+button
+{
+    border: solid 1px;
+    border-radius: 4px;
+    padding: 7px;
+}
+input
+{
+    border: solid 1px;
+    border-radius: 4px;
+    padding: 7px;
+}
